@@ -1,4 +1,3 @@
 # Introduction
 
-Ngapain ngoding, malas🔻
-                      🔻
+Ngapain ngoding, malas😂
