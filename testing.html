@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Html Css Javascript</title>
+  </head>
+  <body>
+    <style>
+      body{
+        margin: 0px;
+        box-sizing: border-box;}
+      #button:click{
+        background-color: cyan;}
+    </style>
+    <input id="text" type="text">
+    <input id="button" type="button">
+    <script>
+      const text = document.getElementById("text")
+      const button = document.getElementById("button")
+      function focus(){
+        text.style.display = "none"
+      }
+      button.addEventListener("click",show)
+      function show(){
+        alert("hai")
+      }
+    </script>
+  </body>
+</html>
