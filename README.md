@@ -8,4 +8,5 @@ then run `python math.py`
 </br>
 if you are using nodejs, just run `node main.js` instead
 </br>
-enumerator operation has three options: `+`, ` - `, ` × `, ` : `
+</br>
+The enumerator operation has three options: `+`, ` - `, ` × `, ` : `
